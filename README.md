@@ -911,7 +911,7 @@ Click any category below to jump directly to its room checklist:
 ## 👨‍💻 Maintainer
 
 <div align="center">
-- 💻 **GitHub:** [@cyberhackersworld](https://github.com)
-- 📸 **Instagram:** [@cyber.hackersworld](https://instagram.com)
-- ▶️ **YouTube:** [@cyber.hackersworld](https://youtube.com)
+- 💻 **GitHub:** [@cyberhackersworld](https://github.com/cyberhackersworld)
+- 📸 **Instagram:** [@cyber.hackersworld]([https://instagram.com](https://www.instagram.com/cyber.hackersworld?utm_source=qr])
+- ▶️ **YouTube:** [@cyber.hackersworld]([https://youtube.com](https://youtube.com/@cyber.hackersworld?si=a1CEuoZ-LaMYUWrg])
 </div>
