@@ -1,9 +1,10 @@
 <div align="center">
-# 🛡️ Free Cybersecurity Roadmap 🚀 
 
-### A hands-on room checklist for building practical cybersecurity skills
+<h1>🛡️ Free Cybersecurity Roadmap 🚀</h1>
 
-**Learn · Practice · Secure**
+**A hands-on room checklist for building practical cybersecurity skills**
+
+`Learn` • `Practice` • `Secure`
 
 </div>
 
@@ -11,30 +12,30 @@
 
 ## 👋 About This Repository
 
-• This repository groups hundreds of TryHackMe room links by cybersecurity topic. It covers everything from beginner basics to web security, forensics, reverse engineering, privilege escalation, and CTF challenges.
-**Learn · Practice · Secure**
+This repository groups hundreds of TryHackMe room links by cybersecurity topic. It covers everything from beginner basics to web security, forensics, reverse engineering, privilege escalation, and CTF challenges.
 
+---
 
-## 🗂️ Room Categories
+## 📁 Room Categories
 
 Click any category below to jump directly to its room checklist:
 
 | 🧭 Core Learning Tracks | Rooms | 🚩 Advanced & CTF Challenges | Rooms |
 | :--- | :---: | :--- | :---: |
-| 🚀 **[Introductory Rooms](#intro-rooms)** | ![10](https://shields.io) | 📡 **[Wifi Hacking](#wi-fi-hacking)** | ![1](https://shields.io) |
-| 🐧 **[Linux Fundamentals](#linux-fundamentals)** | ![5](https://shields.io) | ⚙️ **[Reverse Engineering](#reverse-engineering)** | ![11](https://shields.io) |
-| 🪟 **[Windows Fundamentals](#windows-fundamentals)** | ![3](https://shields.io) | 🦠 **[Malware Analysis](#malware-analysis)** | ![7](https://shields.io) |
-| 🧱 **[Basic Rooms](#basics-rooms)** | ![9](https://shields.io) | 🔑 **[Privilege Escalation](#privesc)** | ![13](https://shields.io) |
-| 🔍 **[Reconnaissance](#recon)** | ![10](https://shields.io) | 💻 **[Windows](#windows)** | ![7](https://shields.io) |
-| 📜 **[Scripting](#scripting)** | ![8](https://shields.io) | 🏢 **[Active Directory](#active-directory)** | ![5](https://shields.io) |
-| 🌐 **[Networking](#networking)** | ![7](https://shields.io) | 📦 **[PCAP Analysis](#pcap-analysis)** | ![4](https://shields.io) |
-| 🧰 **[Tooling](#tooling)** | ![17](https://shields.io) | 💥 **[Buffer Overflow](#bufferoverflow)** | ![4](https://shields.io) |
-| 🔐 **[Crypto & Hashes](#crypto--hashes)** | ![5](https://shields.io) | 🟢 **[Easy CTF](#easy-ctf)** | ![58](https://shields.io) |
-| 🖼️ **[Steganography](#steganography)** | ![6](https://shields.io) | 🟠 **[Medium CTF](#medium-ctf)** | ![73](https://shields.io) |
-| 🕸️ **[Web](#web)** | ![27](https://shields.io) | 🔴 **[Hard CTF](#hard-ctf)** | ![38](https://shields.io) |
-| 🤖 **[Android](#android)** | ![1](https://shields.io) | 🧩 **[Misc](#misc)** | ![35](https://shields.io) |
-| 🕵️ **[Forensics](#forensics)** | ![5](https://shields.io) | 🎄 **[Special Events](#special-events)** | ![9](https://shields.io) |
-| **📊 Total Rooms** | ![378 Rooms](https://shields.io) | | |   |                           |
+| 🚀 **[Introductory Rooms](#intro-rooms)** | **10** | 📡 **[Wifi Hacking](#wi-fi-hacking)** | **1** |
+| 🐧 **[Linux Fundamentals](#linux-fundamentals)** | **5** | ⚙️ **[Reverse Engineering](#reverse-engineering)** | **11** |
+| 🪟 **[Windows Fundamentals](#windows-fundamentals)** | **3** | 🦠 **[Malware Analysis](#malware-analysis)** | **7** |
+| 🧱 **[Basic Rooms](#basics-rooms)** | **9** | 🔑 **[Privilege Escalation](#privesc)** | **13** |
+| 🔍 **[Reconnaissance](#recon)** | **10** | 💻 **[Windows](#windows)** | **7** |
+| 📜 **[Scripting](#scripting)** | **8** | 🏢 **[Active Directory](#active-directory)** | **5** |
+| 🌐 **[Networking](#networking)** | **7** | 📦 **[PCAP Analysis](#pcap-analysis)** | **4** |
+| 🧰 **[Tooling](#tooling)** | **17** | 💥 **[Buffer Overflow](#bufferoverflow)** | **4** |
+| 🔐 **[Crypto & Hashes](#crypto--hashes)** | **5** | 🟢 **[Easy CTF](#easy-ctf)** | **58** |
+| 🖼️ **[Steganography](#steganography)** | **6** | 🟠 **[Medium CTF](#medium-ctf)** | **73** |
+| 🕸️ **[Web](#web)** | **27** | 🔴 **[Hard CTF](#hard-ctf)** | **38** |
+| 🤖 **[Android](#android)** | **1** | 🧩 **[Misc](#misc)** | **35** |
+| 🕵️ **[Forensics](#forensics)** | **5** | 🎄 **[Special Events](#special-events)** | **9** |
+| **📊 Total Rooms** | **378** | | |
 
 ---
 
@@ -899,17 +900,18 @@ Click any category below to jump directly to its room checklist:
 - [ ] [TryHackMe | Learn and win prizes #2](https://tryhackme.com/room/tickets2)
 
  
-##⚠️ **Disclaimer:**
+---
 
-Use these rooms and techniques only in official training labs or on systems you own or have clear permission to test. Always follow TryHackMe's rules and the law.
+## ⚠️ Disclaimer
 
+> **Use these rooms and techniques only in official training labs or on systems you own or have clear permission to test. Always follow TryHackMe's rules and the law.**
+
+---
 
 ## 👨‍💻 Maintainer
 
 <div align="center">
-
-[![GitHub](https://shields.io)](https://github.com/cyberhackersworld)
-[![Instagram](https://shields.io)](https://www.instagram.com/cyber.hackersworld?utm_source=qr)
-[![YouTube](https://shields.io)](https://youtube.com/@cyber.hackersworld?si=a1CEuoZ-LaMYUWrg)
-
+- 💻 **GitHub:** [@cyberhackersworld](https://github.com)
+- 📸 **Instagram:** [@cyber.hackersworld](https://instagram.com)
+- ▶️ **YouTube:** [@cyber.hackersworld](https://youtube.com)
 </div>
